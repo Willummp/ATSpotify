@@ -1,0 +1,26 @@
+{
+  "Musicas": [
+    {
+      "nome": "Sonne",
+      "duracao": "04:21",
+      "artistas": []
+    },
+    {
+      "nome": "Du Hast",
+      "duracao": "05:01",
+      "artistas": []
+    },
+    {
+      "nome": "ME!",
+      "duracao": "03:59",
+      "artistas": [
+        {
+          "nome": "Taylor Swift"
+        },
+        {
+          "nome": "Brendon Urie"
+        }
+      ]
+    }
+  ]
+}

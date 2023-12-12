@@ -1,0 +1,14 @@
+C:\Users\lucas\Documentos\infnet\ATSpotify\ATSpotify\obj\Debug\net8.0\ATSpotify.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Documentos\infnet\ATSpotify\ATSpotify\obj\Debug\net8.0\ATSpotify.AssemblyInfoInputs.cache
+C:\Users\lucas\Documentos\infnet\ATSpotify\ATSpotify\obj\Debug\net8.0\ATSpotify.AssemblyInfo.cs
+C:\Users\lucas\Documentos\infnet\ATSpotify\ATSpotify\obj\Debug\net8.0\ATSpotify.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documentos\infnet\ATSpotify\ATSpotify\bin\Debug\net8.0\ATSpotify.exe
+C:\Users\lucas\Documentos\infnet\ATSpotify\ATSpotify\bin\Debug\net8.0\ATSpotify.deps.json
+C:\Users\lucas\Documentos\infnet\ATSpotify\ATSpotify\bin\Debug\net8.0\ATSpotify.runtimeconfig.json
+C:\Users\lucas\Documentos\infnet\ATSpotify\ATSpotify\bin\Debug\net8.0\ATSpotify.dll
+C:\Users\lucas\Documentos\infnet\ATSpotify\ATSpotify\bin\Debug\net8.0\ATSpotify.pdb
+C:\Users\lucas\Documentos\infnet\ATSpotify\ATSpotify\obj\Debug\net8.0\ATSpotify.dll
+C:\Users\lucas\Documentos\infnet\ATSpotify\ATSpotify\obj\Debug\net8.0\refint\ATSpotify.dll
+C:\Users\lucas\Documentos\infnet\ATSpotify\ATSpotify\obj\Debug\net8.0\ATSpotify.pdb
+C:\Users\lucas\Documentos\infnet\ATSpotify\ATSpotify\obj\Debug\net8.0\ATSpotify.genruntimeconfig.cache
+C:\Users\lucas\Documentos\infnet\ATSpotify\ATSpotify\obj\Debug\net8.0\ref\ATSpotify.dll
